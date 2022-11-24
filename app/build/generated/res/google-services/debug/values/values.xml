@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">103501693623-tftv03ltmbkii1ttomh4r7lgtutq63fj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">103501693623</string>
+    <string name="google_api_key" translatable="false">AIzaSyB6GFHdE8jqwlNTQlqOUr3b7-KtKOdgtAw</string>
+    <string name="google_app_id" translatable="false">1:103501693623:android:35a3bc96c367ff1a948332</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6GFHdE8jqwlNTQlqOUr3b7-KtKOdgtAw</string>
+    <string name="google_storage_bucket" translatable="false">baick-21ab0.appspot.com</string>
+    <string name="project_id" translatable="false">baick-21ab0</string>
+</resources>

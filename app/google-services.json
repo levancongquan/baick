@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103501693623",
+    "project_id": "baick-21ab0",
+    "storage_bucket": "baick-21ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103501693623:android:35a3bc96c367ff1a948332",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103501693623-tftv03ltmbkii1ttomh4r7lgtutq63fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6GFHdE8jqwlNTQlqOUr3b7-KtKOdgtAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103501693623-tftv03ltmbkii1ttomh4r7lgtutq63fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
